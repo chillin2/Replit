@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ ./CodingTest/Q00.cpp ; ./a.out"
